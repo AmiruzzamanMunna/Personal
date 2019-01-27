@@ -1,0 +1,149 @@
+.containimage{
+	background-image: url(/images/home.jpg);
+	background-repeat:no-repeat;
+	margin-top: 50px;
+	padding: 135px;
+	background-size:cover;
+}
+.imageelement{
+	height: 210px;
+	width: 200px;
+	margin-right:  25px;
+}
+.heading{
+	color: white; 
+
+}
+.about{
+	margin-top: 15px;
+	padding: 40px;
+}
+.service{
+	margin-top: 15px;
+	background-color: #fafafa;
+	padding: 45px;
+}
+.serviceelement{
+	margin-top: 10px;
+	padding: 35px;
+	background-color: white;
+	margin-bottom: 10px;
+}
+.icon{
+	size: 5px;
+}
+.design{
+	margin-top: 15px;
+	padding: 40px;
+}
+.html{
+	width: 70%;
+}
+.bootstrap{
+	width: 75%;
+}
+.css{
+	width: 65%;
+}
+.laravel{
+	width: 70%;
+}
+.jquery{
+	width: 65%;
+}
+.javascript{
+	width: 65%;
+}
+.footer{
+	margin-top: 65px;
+	padding: 40px;
+	background-color: #343a40;
+	color: white;
+}
+.footercontain{
+	font-size: 15px;
+}
+.footerimage{
+	margin-top: 10px;
+	margin-bottom: 60px;
+}
+.logo{
+	height: 50px;
+	float: left;
+}
+.footeritem{
+	margin-top: 60px;
+}
+
+/*portfolio*/
+.itemport{
+	margin-top: 20px;
+	padding: 25px;
+	margin-bottom: 90px;
+	background-color: #fafafa;
+}
+.portheader{
+	font-size: 45px;
+	margin-top:  70px;
+}
+.portitem{
+	margin-top: 5px;
+	background-color: #fafafa;
+	padding: 45px;
+	margin-bottom: 40px;
+}
+.portitemp{
+	white-space: pre-line;
+	font-size: 20px;
+}
+.wrapport{
+	margin-bottom: 50px;
+}
+.wrapport1{
+	margin-top: 50px;
+}
+.portheader2{
+	font-size: 45px;
+	margin-top:  70px;
+	margin-bottom: 1000px;
+}
+#portimage{
+	height: 380px;
+	width: 900px;
+
+}
+/*about*/
+#aboutimage{
+	height: 410px;
+	width: 800px;
+}
+.wrapabout{
+	margin-top: 110px;
+	margin-bottom: 10px;
+}
+.wrapimg{
+	margin-top: 10px;
+}
+.aboutblog{
+	margin-top: 70px;
+	padding: 45px;
+	background-color: #fafafa;
+}
+.aboutheader{
+	color: #20c997;
+}
+.aboutp{
+	margin-top: 100px;
+	margin-top: 30px;
+}
+/*Contact*/
+.contactheader{
+	font-size: 45px;
+	margin-bottom: 40px;
+}
+.contactfrm{
+	margin-top: 10px;
+}
+.contactform{
+	background-color: #fafafa;
+}
